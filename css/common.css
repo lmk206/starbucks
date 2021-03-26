@@ -1,0 +1,25 @@
+html,body{
+  width:100%;
+  margin:0;
+  padding:0;
+  font-size:16px;
+  font-weight:400;
+  line-height:1.4;
+  box-sizing:border-box;
+  color:#333;
+  font-family:'Nanum Gothic', sans-serif !important;
+}
+
+ul,li,ol{
+  list-style-type:none;
+  display:inline-block;
+}
+
+a, span, em, strong{
+  display:inline-block;
+  text-decoration:none;
+}
+
+img{
+  display:block;
+}
